@@ -10,6 +10,15 @@ namespace pool1._3
     {
         static void Main(string[] args)
         {
+            int n, k;
+            n = int.Parse(Console.ReadLine());
+            k = int.Parse(Console.ReadLine());
+            if (n % k == 0)
+                Console.WriteLine("Numarul" + " " + n + " " + "se divide cu " + " " + k);
+            else
+                Console.WriteLine("Numarul" + " " + n + " " + "nu se divide cu " + " " + k);
+            Console.ReadKey();
         }
+
     }
 }
