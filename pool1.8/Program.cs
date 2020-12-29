@@ -10,6 +10,7 @@ namespace pool1._8
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
