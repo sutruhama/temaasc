@@ -23,8 +23,8 @@ namespace pool3._4
                 if (v[i] == v.Max())
                     apmax++;
             }
-                Console.WriteLine("Minimul este"+" "+v.Min()+" "+apmin);
-                Console.WriteLine("Maximul este"+" "+v.Max()+" "+apmax);
+                Console.WriteLine("Minimul este"+" "+v.Min()+" "+"apare de"+" "+apmin);
+                Console.WriteLine("Maximul este"+" "+v.Max()+" " + "apare de" + " " + apmax);
             
             Console.ReadKey();
 
