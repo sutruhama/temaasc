@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\temaasc\pool3.13\bin\Debug\pool3.13.exe.config
+C:\Users\User\source\repos\temaasc\pool3.13\bin\Debug\pool3.13.exe
+C:\Users\User\source\repos\temaasc\pool3.13\bin\Debug\pool3.13.pdb
+C:\Users\User\source\repos\temaasc\pool3.13\obj\Debug\pool3.13.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\temaasc\pool3.13\obj\Debug\pool3.13.exe
+C:\Users\User\source\repos\temaasc\pool3.13\obj\Debug\pool3.13.pdb
