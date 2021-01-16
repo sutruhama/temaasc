@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\temaasc\pool3.29\bin\Debug\pool3.29.exe.config
+C:\Users\User\source\repos\temaasc\pool3.29\bin\Debug\pool3.29.exe
+C:\Users\User\source\repos\temaasc\pool3.29\bin\Debug\pool3.29.pdb
+C:\Users\User\source\repos\temaasc\pool3.29\obj\Debug\pool3.29.csprojAssemblyReference.cache
+C:\Users\User\source\repos\temaasc\pool3.29\obj\Debug\pool3.29.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\temaasc\pool3.29\obj\Debug\pool3.29.exe
+C:\Users\User\source\repos\temaasc\pool3.29\obj\Debug\pool3.29.pdb
